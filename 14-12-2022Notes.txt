@@ -1,1 +1,36 @@
 byte <short <int< long 
+type variableName = value;
+
+
+REFER any of these blogs:
+https://www.javatpoint.com/java-basics
+https://www.tutorialspoint.com/java/index.htm
+https://www.w3schools.com/java/java_intro.asp
+https://www.geeksforgeeks.org/introduction-to-java/?ref=lbp
+
+TASKS: 
+-----
+
+https://www.w3schools.com/java/exercise.asp?filename=exercise_syntax1
+
+print your name
+print your name and id in separate lines
+print your name and id in same line
+add 5+3
+print , your college name 
+print hello 123
+Write a Java program to divide two numbers and print on the screen.
+print below
+The addition of 10 and 20 is:
+30
+print below
+Welcome
+To
+CodingWorld
+
+
+https://www.w3schools.com/java/exercise.asp?filename=exercise_data_types1
+https://www.w3schools.com/java/exercise.asp?filename=exercise_data_types2
+
+TEAM, TRY USING ALL 8 DATA TYPES IN CODE. 
+
