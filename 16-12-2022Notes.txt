@@ -1,0 +1,12 @@
+Team, kindly refer the below links:
+
+https://www.geeksforgeeks.org/java-identifiers/?ref=lbp
+https://www.geeksforgeeks.org/variables-in-java/?ref=lbp
+https://www.w3schools.com/java/java_ref_keywords.asp
+
+
+
+Team, kindly complete the following exercise:
+https://www.w3schools.com/java/exercise.asp?filename=exercise_data_types1
+
+find the area of rectangle, if length is 30, and breadth is 20. (hint, kindly store 30, 20 in variable and then print the result. )
