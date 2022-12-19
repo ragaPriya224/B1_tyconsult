@@ -1,4 +1,5 @@
 array syntax: type []var-name = new type [size];
+for code visualization: https://pythontutor.com/visualize.html#mode=edit
 ref: https://www.w3schools.com/java/java_arrays.asp
 https://www.w3schools.com/java/java_ref_string.asp
 
