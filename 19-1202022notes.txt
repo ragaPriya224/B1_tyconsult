@@ -1,0 +1,1 @@
+array syntax: type []var-name = new type [size];
