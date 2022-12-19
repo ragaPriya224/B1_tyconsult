@@ -61,6 +61,7 @@ public class Test1
 }
 
 HINT: Use + to add strings together. Add spaces as needed and periods.
+hint 2: solve the same problem with concat method as well
 -----------------------------
 5. Write the code to print “Julian’s favorite color is green. His favorite food is pizza.”.
 public class Test1
