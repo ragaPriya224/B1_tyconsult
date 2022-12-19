@@ -1,0 +1,87 @@
+array syntax: type []var-name = new type [size];
+ref: https://www.w3schools.com/java/java_arrays.asp
+https://www.w3schools.com/java/java_ref_string.asp
+
+https://www.w3schools.com/java/java_strings.asp
+
+do the following tasks:
+------------------------------------
+go through array topic, string topic in w3schools from above links, and solve the w3exercises, related to that. 
+-------------------------------
+The following code should replace lol in the message with laugh out loud and print the new message.
+
+public class Test1
+{
+    public static void main(String[] args)
+    {
+        String message = "That was great - lol.";
+
+    }
+}
+
+
+output: That was great - laugh out loud
+
+-----------------------------------------------
+2. The following code starts with String firstNameCaps = ALEX; and should print Alex. Use the toLowerCase and substring methods to do accomplish this task.
+public class Test1
+{
+    public static void main(String[] args)
+    {
+        String firstNameCaps  = "ALEX";
+        System.out.println(firstNameCaps);
+    }
+}
+--------------------------------
+3. Finish the code below to print your favorite movie and book.
+
+public class Test1
+{
+    public static void main(String[] args)
+    {
+        String movie = "";
+        String book = "";
+        System.out.println();
+
+    }
+}
+
+----------------------------
+4.Finish the code below to print your favorite animal and food.
+
+public class Test1
+{
+    public static void main(String[] args)
+    {
+        String animal =
+        String food =
+        System.out.println();
+
+    }
+}
+
+HINT: Use + to add strings together. Add spaces as needed and periods.
+-----------------------------
+5. Write the code to print “Julian’s favorite color is green. His favorite food is pizza.”.
+public class Test1
+{
+    public static void main(String[] args)
+    {
+        String name = "Julian";
+        String color = "green";
+        String food = "pizza";
+        System.out.println();
+    }
+}
+
+
+hint: Add the strings together using +. Don’t forget to include spaces and periods at the end of the sentences.
+---------------------------------
+https://runestone.academy/ns/books/published/apcsareview/Strings/Exercises.html
+---------------------------
+Refer the code that we have practiced in class.Similarly take your full name and practice all the string methods that we have seen. (Do it in your ide and make sure you save the files)
+
+
+
+
+
