@@ -25,13 +25,20 @@ public class DataTypeDemo {
         
         boolean flag = true;
         System.out.println(flag);
-        int vegg = 5;
+        int vegg = 5;//local variable
         vegg = 50;
         System.out.println(vegg);
         int mouse;
         mouse = 100;
+       
+        mouse = 200;
+//        byte mouse = 300;//local variable
+        int cheesePizza = 100;
+        int CheesePizza = 200;
+        System.out.println(cheesePizza);
         System.out.println(mouse);
-        
+        int x = 10, y = 20, z = 30;
+//        int int = 20;
 	}
 
 }
