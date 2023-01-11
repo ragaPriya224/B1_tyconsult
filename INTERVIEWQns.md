@@ -57,3 +57,8 @@ throw keyword is used to throw Exception from any method or static block whereas
 If any method throws checked Exception, then caller can either handle this exception(using try catch block )or can re throw it by declaring another ‘throws’ clause in method declaration.
 throw clause can be used in any part of code where you feel a specific exception needs to be thrown to the calling method
 E.g. throw throw new Exception(“You have some exception”) throw new IOException(“Connection failed!!”) throws throws IOException, NullPointerException, ArithmeticException
+
+![image](https://user-images.githubusercontent.com/90038032/211879565-433179f0-4ee3-4690-8f29-bd878a602de6.png)
+
+-------------------------------------------------------------------------------------------------------------------
+![image](https://user-images.githubusercontent.com/90038032/211879498-47cc2b17-d645-437b-9433-1ebe22a7e74a.png)
