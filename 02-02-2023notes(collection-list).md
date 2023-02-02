@@ -51,3 +51,12 @@ removeLast
 best    retrieval	    	       insertion,deletion
 worst   insesrtion/deletion      retrieval 
 ---------------------
+
+
+
+task:
+
+
+Write a Java program to insert an element into the array list at the first position.
+
+2. Write a Java program to retrieve an element (at a specified index) from a given array list
