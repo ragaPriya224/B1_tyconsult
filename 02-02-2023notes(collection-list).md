@@ -1,6 +1,6 @@
 ----------------------IN DEPTHJ NOTES---------------------
 
-Arraylist:
+**Arraylist:**
 
 dup ok
 
@@ -17,7 +17,7 @@ initial capacity of ten.
 
 https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html
 
-Constructor:
+**Constructor:**
 
 ArrayList al = new ArrayList();
 
@@ -31,8 +31,8 @@ worst : insertion/deletion X
 
 https://www.w3schools.com/java/java_arraylist.asp
 
-----------------------------------------------------
-LinkedList:
+----------------------------------------------------------------------------------------
+**LinkedList:**
 
 dup ok
 
@@ -44,12 +44,13 @@ null ins ok
 
 DS: doub le linked list
 
-constructor:
+**constructor:**
 
 LinkedList()
 
 LinkedList(Collection c)
 
+**when to prefer linkedlist:**
 
 Best: insertion, deletion
 
@@ -58,7 +59,7 @@ worst: retrieval
 
 METHoDS:
 
-	addFirst(E e)
+addFirst(E e)
 	
   addLast(E e)
   
@@ -72,12 +73,13 @@ removeLast
 
 -----------------------------------
 
-      ArrayList                	linkedList
+      ArrayList                		linkedList
       
-best    retrieval	    	       insertion,deletion
+     best     retrieval	     		insertion,deletion
 
-worst   insesrtion/deletion      retrieval 
----------------------
+     worst   insesrtion/deletion      	retrieval 
+
+-----------------------------
 
 
 
