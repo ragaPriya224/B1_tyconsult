@@ -1,45 +1,46 @@
 Team 1	**library management system**
 
-Bonamukkala Chandra Sekhar Reddy	
+Bonamukkala Chandra Sekhar Reddy  -blore	
 
-Mahesh Kumar Polisetty	
+Mahesh Kumar Polisetty	-blore
     
-Yogesh Sharma	
+Yogesh Sharma	-blore
     
-Poonam lal
+Poonam lal -blore
 
 **----------------------------------**
 
 Team 2		 **bank management system **
 
-Muhammad Saifi
 
-Narayana Aluri	
+swati minz	- blore
+
+Narayana Aluri	 blore
     
-Rahul Mandolkar	
+Rahul Mandolkar	blore
     
-Manjunatha Kotagunasi	
+Manjunatha Kotagunasi	 -blore
 
 **----------------------------------**
 
 Team 3	**employee management system**
 
-Paramdhaman K	
+Paramdhaman K	blore
 
-Neha Pawara	
+sravan sai vijayanagaram	blore
     
-Smigda reddy Karnampally	
+Smigda reddy Karnampally	blore(wfh)
     
-Vavilala Sastri	
+Vavilala Sastri	 blore
 
 **----------------------------------**    
 Team 4		**student management system **
 
-swati minz	
+Sachin Kuber Patil	pune 
 
-Sachin Kuber Patil	
-    
-sravan sai vijayanagaram	
+Neha Pawara	pune
+
+Muhammad Saifi-  pune
 
 ---------------------------------
 
