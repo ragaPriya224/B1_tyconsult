@@ -51,6 +51,7 @@ pojo, USERDEFINED EXCEPTION, cONTROLLER, SERVICE, REPOSITORY/DAO, BUSINESS OBJEC
 DAO -> JDBC/JDBC TEMPLATE/HIBERNATE	
 
 **Technology**
+
 HTML designing screens
 
 CSS designing screens
@@ -91,8 +92,11 @@ employeeservice, employeecontroller,employeenotfoundexception....
 Employee:
 
 id
+
 name
+
 dateofJoining
+
 basicPay 
 
 business logic:
@@ -102,15 +106,21 @@ basicPay -from user
 basic pay, u have to calculate the DA, HRA
 
 basicpay        40000
+
 DA     40%basic   16k
+
 HRA    30%basic   12k*12
+
 gross salary -> calculate 
 
 tax: 
 
 >5L, 10%
+
 >10L,15%
+
 >15L, 20%
+
 else ,no tax is applicable 
 
 
@@ -127,20 +137,28 @@ classes: student, studentservice, studentcontroller,studentnotfoundexception....
 STUDENT:
 
 id,
+
 name
+
 dataofAdmission
+
 physics
+
 chemistry 
+
 biology 
 
 
 businesslogic:
 
 total: phy+che+bio;
+
 score = total/3;
 
 score>=60 IDivision pass
+
 score >=40 II division pass
+
 otherwise III division fail 
 
 REPORT:
@@ -156,14 +174,19 @@ BookController, bookService, booknotfoundexception.....
 book
 
 id
+
 name
+
 author
+
 category
+
 returnDate
 
 
 
 business logic 
+
 the book is available if(return Date is less than current Date)
  
  REPORt:
@@ -184,21 +207,30 @@ bank management system
 Client
 
 id
+
 name
+
 accountnumber
+
 balance
+
 outstanding amount
+
 dateofjoining
 
 class: ClientController,clientservice,clientnotfoundexception....
 
 business logic:
+
 balance = balance+deposit amount
+
 balance = balance -withdrawal amount
 
 
 REPORT:
+
 transaction report daily 
+
 transaction report based on two date i.e., between two dates 
 
 
