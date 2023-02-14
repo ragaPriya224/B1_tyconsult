@@ -44,6 +44,11 @@ suppose file not found exception, then we can provide a local file and we can co
 ERROR:  
   caused due to lack of resources -- Eg: out of memory error 
   mostly not caused by our programs, these are non recoverable 
+  
+  ---------------------------
+  exceptions that are checked by compiler for smooth execution of program @ runtime Eg: filenotfound exception, interrupted exception
+  
+  exceptions that are not checked by compiler @runttime Eg: arithmetic exception 
 
 
 
