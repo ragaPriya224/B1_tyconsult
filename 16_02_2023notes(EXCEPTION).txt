@@ -1,0 +1,3 @@
+FULLY CHECKED EXCEPTION: if and only if all it's child classes are chcked. eg: io exception 
+
+PARTIALLY CHECKED EXCEPTION : if all it's child classes are unchecked . eg: exception , throwable 
