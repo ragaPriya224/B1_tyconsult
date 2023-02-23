@@ -1,3 +1,5 @@
+Refer the sql queries in https://github.com/ragaPriya224/B1_tyconsult/blob/master/tyconsult_sqlqueries.sql
+------------------jdbc------------------------
 Stage1: Connection establishment
   a. Register the Driver
       Class.forName("com.mysql.jdbc.Driver");
