@@ -1,6 +1,6 @@
 atleast know what is what, y we're using it
 
-backend: 
+**backend: **
 
 java8 features,
 
@@ -32,9 +32,11 @@ js
 
 angular
 
-react
+react  or whatever the tech's mentioned in the resume. 
 
 spring? : https://www.youtube.com/watch?v=gq4S-ovWVlM&t=31s
+
+http methods: https://www.youtube.com/watch?v=guYMSP7JVTA
 
 restapi : https://www.youtube.com/watch?v=qVTAB8Z2VmA
 
